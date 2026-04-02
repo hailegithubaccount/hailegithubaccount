@@ -1,6 +1,7 @@
-# Hi there 👋, I'm HaileMichael Eshetu
+## Hi there 👋
 
-<h3 align="center">Mobile Application Developer | React Native | Backend Learner</h3>
+<h1 align="center">Hi 👋, I'm Michael Eshetu</h1>
+<h3 align="center">Mobile Application Developer | React Native</h3>
 
 <p align="center">
   <a href="https://hailemichael.netlify.app/" target="_blank">
@@ -14,84 +15,41 @@
   </a>
 </p>
 
-##  About Me
+---
 
-🔭 Currently working on Mobile Application Development at EagleLion System Technology  
+### 🔭 Current Work
+- Working at **EagleLion System Technology** for 8 months on mobile and web applications.
+- Developed large-scale, real-world apps (company projects hosted on private GitLab):
+  - Dashen Super App
+  - Dashen Merchant App
+  - Ethiopost Agent Application
+  - Choice Microfinance Application
+- Previously worked on:
+  - Studynest Library App
+  - Garage Management App
+  - Human Hair Sales Website
+  - Restaurant App (QR table ordering system)
 
-🌱 Continuously improving my backend development skills with Django, APIs, and database systems  
+### 🌱 Currently Learning
+- Django backend development
+- Scalable backend architectures and API optimization
 
-👯 Open to collaborating on mobile and full-stack application projects  
+### 👯 Open to Collaborate
+- Mobile & full-stack application projects
+- API integration and performance optimization
 
-🤔 Exploring scalable backend architectures and improving application performance  
+### 🤔 Ask me about
+- React Native development
+- Building production-ready mobile applications
+- Database and backend management
 
-💬 Ask me about React Native, API integration, and building real-world applications  
+### 💬 Fun Fact
+- I enjoy turning real-life ideas into working applications 🚀
 
-📫 Reach me at: your-email@example.com  
+---
 
-⚡ Fun fact: I enjoy turning real-life ideas into working applications 🚀  
+### 🛠 Tech Stack
 
-## 💼 Experience
-
-💼 **EagleLion System Technology (8 Months Experience)**  
-Actively involved in developing and maintaining production-level mobile applications. Although my public GitHub activity is limited, I have been consistently contributing to private GitLab repositories as part of my professional work:
-
-- Dashen Super App  
-- Dashen Merchant Application  
-- Ethiopost Agent Application  
-- Choice Microfinance Application  
-
-## 📱 Personal & Academic Projects
-
-- 📚 **StudyNest Library Application** – Library system for managing student access and usage  
-- 🚗 **Garage Management Application** – Connects customers with service providers and manages service requests  
-- 💇 **Human Hair Sales Website** – E-commerce platform for managing products and client interactions  
-- 🍽️ **Restaurant QR Ordering System** – Customers scan QR codes at tables, place orders via mobile, and orders are sent directly to the waiter dashboard  
-
-## 🛠️ Tech Stack
-<p>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React Native
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40"/><br/>Expo
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/>Next.js
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>HTML5
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>CSS3
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>TypeScript
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br/>Django
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br/>Flutter
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br/>PHP
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>Node.js
-  </span>
-  <span style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br/>Express
-  </span>
-</p>
-
-
-
+| React | React Native | Expo | Next.js | HTML5 | CSS3 | JavaScript | TypeScript | Python | Django | Flutter | PHP | Node.js | Express |
+|-------|--------------|------|---------|-------|------|------------|-----------|--------|--------|---------|-----|---------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React Native | <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40"/><br/>Expo | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/>Next.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br/>Django | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br/>Flutter | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br/>PHP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br/>Express |
