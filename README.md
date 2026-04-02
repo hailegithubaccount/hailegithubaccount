@@ -54,5 +54,5 @@
 
 
 
-| Ethiopost Agent App | ![Ethiopost](https://drive.google.com/file/d/1eJpBguhKV219V2rmeHnHVwItDn3Kbo1F/view?usp=sharing) | Application for Ethiopost agents to manage deliveries and customers. |
+![Ethiopost Agent App](https://drive.google.com/uc?export=view&id=1eJpBguhKV219V2rmeHnHVwItDn3Kbo1F)
 
