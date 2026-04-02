@@ -48,7 +48,7 @@ Actively involved in developing and maintaining production-level mobile applicat
 - 🍽️ **Restaurant QR Ordering System** – Customers scan QR codes at tables, place orders via mobile, and orders are sent directly to the waiter dashboard  
 
 ## 🛠️ Tech Stack
-<p align="left">
+<p>
   <span style="display:inline-block; text-align:center; margin:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React
   </span>
