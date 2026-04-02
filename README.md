@@ -14,13 +14,7 @@
   </a>
 </p>
 
----
-
-
-
----
-
-## 🚀 About Me
+##  About Me
 
 🔭 Currently working on Mobile Application Development at EagleLion System Technology  
 
@@ -36,8 +30,6 @@
 
 ⚡ Fun fact: I enjoy turning real-life ideas into working applications 🚀  
 
----
-
 ## 💼 Experience
 
 💼 **EagleLion System Technology (8 Months Experience)**  
@@ -48,8 +40,6 @@ Actively involved in developing and maintaining production-level mobile applicat
 - Ethiopost Agent Application  
 - Choice Microfinance Application  
 
----
-
 ## 📱 Personal & Academic Projects
 
 - 📚 **StudyNest Library Application** – Library system for managing student access and usage  
@@ -57,16 +47,23 @@ Actively involved in developing and maintaining production-level mobile applicat
 - 💇 **Human Hair Sales Website** – E-commerce platform for managing products and client interactions  
 - 🍽️ **Restaurant QR Ordering System** – Customers scan QR codes at tables, place orders via mobile, and orders are sent directly to the waiter dashboard  
 
----
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <!-- Existing icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40" title="Expo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+  
+  <!-- New icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
 </p>
