@@ -1,11 +1,17 @@
-# Hi there 👋, I'm Michael
+# Hi there 👋, I'm HaileMichael Eshetu
 
 <h3 align="center">Mobile Application Developer | React Native | Backend Learner</h3>
 
 <p align="center">
-  <a href="https://your-portfolio.com">🌐 Portfolio</a> •
-  <a href="https://github.com/hailegithubaccount">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/yourprofile">🔗 LinkedIn</a>
+  <a href="https://hailemichael.netlify.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netlify.svg" alt="Portfolio" width="30" style="margin-right:10px;"/>
+  </a>
+  <a href="https://github.com/hailegithubaccount" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" style="margin-right:10px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hailemichael-eshetu-6920b2372/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
+  </a>
 </p>
 
 ---
