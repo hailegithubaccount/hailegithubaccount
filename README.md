@@ -44,5 +44,15 @@
 |-------|--------------|------|---------|-------|------|------------|-----------|--------|--------|---------|-----|---------|---------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React Native | <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40"/><br/>Expo | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/>Next.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/><br/>Django | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br/>Flutter | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br/>PHP | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br/>Express |
 
+### 🚀 Projects
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailegithubaccount&show_icons=true&theme=radical)
+| Project | Screenshot | Description |
+|---------|------------|-------------|
+
+
+
+
+
+
+| Ethiopost Agent App | ![Ethiopost](https://drive.google.com/file/d/1eJpBguhKV219V2rmeHnHVwItDn3Kbo1F/view?usp=sharing) | Application for Ethiopost agents to manage deliveries and customers. |
+
