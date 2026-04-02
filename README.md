@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Michael Eshetu</h1>
+<h1 align="center">Hi 👋, I'm HaileMichael Eshetu</h1>
 <h3 align="center">Mobile Application Developer | React Native</h3>
 
 <p align="center">
