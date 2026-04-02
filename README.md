@@ -5,14 +5,28 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Michael</h1>
+<h3 align="center">Mobile Application Developer | React Native</h3>
+
+<p align="center">
+  <a href="https://your-portfolio.com">🌐 Portfolio</a> •
+  <a href="https://github.com/yourusername">💻 GitHub</a> •
+  <a href="#">🔗 LinkedIn</a>
+</p>
+
+🔭 Currently working on Mobile Application Development at EagleLion System Technology
+
+🌱 Continuously improving my backend development skills with Django, APIs, and database systems
+
+👯 Open to collaborating on mobile and full-stack application projects
+
+🤔 Exploring scalable backend architectures and improving application performance
+
+💬 Ask me about React Native, API integration, and building real-world applications
+
+📫 Reach me at: your-email@example.com
+
+⚡ Fun fact: I enjoy turning real-life ideas into working applications 🚀
 -->
 
 <p align="left">
